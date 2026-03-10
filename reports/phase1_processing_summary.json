@@ -1,0 +1,14 @@
+{
+  "files_discovered": 12,
+  "files_processed": 12,
+  "batches_processed": 418,
+  "rows_read": 41169720,
+  "rows_written": 40435831,
+  "rows_dropped": 733889,
+  "started_at_epoch": 1773046829.267309,
+  "ended_at_epoch": 1773047430.7491636,
+  "duration_seconds": 601.482,
+  "output_csv": "C:\\Users\\Asus\\OneDrive\\Desktop\\taxi_data\\taxi_project_output\\yellow_taxi_2024_cleaned.csv",
+  "output_csv_exists": true,
+  "output_csv_size_mb": 3917.045
+}
