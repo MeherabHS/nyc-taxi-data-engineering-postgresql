@@ -64,6 +64,20 @@ Total rows loaded into PostgreSQL:
 
 ---
 
+# Python Dependencies
+
+The project requires the following Python libraries.
+
+| Library | Purpose |
+|------|------|
+| pandas | Data cleaning and transformation |
+| pyarrow | Reading Parquet files |
+| psycopg2 | PostgreSQL database connectivity |
+
+Install dependencies using:
+
+```bash
+pip install -r requirements.txt
 # System Architecture
 
 The project follows a structured **data engineering pipeline**.
