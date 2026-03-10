@@ -83,6 +83,8 @@ pip install -r requirements.txt
 The project follows a structured **data engineering pipeline**.
 
 ```
+
+```
 Parquet Dataset
 │
 Python Processing Scripts
@@ -95,6 +97,8 @@ Analytics Table
 │
 SQL Analytical Queries
 ```
+
+
 
 Each stage performs a specific transformation that ensures efficient storage and query performance.
 
